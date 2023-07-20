@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_bank"
+        android:enabled="true"
+        android:title="Bank"
+        android:icon="@drawable/baseline_account_balance_24">
+    </item>
+    <item
+        android:id="@+id/action_office"
+        android:enabled="true"
+        android:title="Office"
+        android:icon="@drawable/baseline_maps_home_work_24">
+    </item>
+
+    <item
+        android:id="@+id/action_shop"
+        android:enabled="true"
+        android:title="Shop"
+        android:icon="@drawable/baseline_shop_24">
+    </item>
+
+</menu>
